@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conan.one</title>
+    <link>https://conan.one</link>
+    <description>Conan's thinking deltas — essays and other artifacts. (zh)</description>
+    <language>zh</language>
+    <atom:link href="https://conan.one/feed.zh.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title><![CDATA[漂亮的石头]]></title>
+      <link>https://conan.one/0005-漂亮的石头/</link>
+      <guid>https://conan.one/0005-漂亮的石头/</guid>
+      <pubDate>Wed, 19 Aug 2026 03:04:10 GMT</pubDate>
+      <description><![CDATA[漂亮的石头]]></description>
+    </item>
+    <item>
+      <title><![CDATA[关于 Essay]]></title>
+      <link>https://conan.one/0001-关于-essay/</link>
+      <guid>https://conan.one/0001-关于-essay/</guid>
+      <pubDate>Sun, 19 Apr 2026 03:04:22 GMT</pubDate>
+      <description><![CDATA[关于 Essay]]></description>
+    </item>
+  </channel>
+</rss>

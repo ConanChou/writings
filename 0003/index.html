@@ -1,0 +1,8 @@
+<!DOCTYPE html><html> <head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=/en/0003-you-are-a-function"><title>Redirecting…</title></head> <body> <script>(function(){const langUrls = "{\"en\":\"/en/0003-you-are-a-function\"}";
+const defaultUrl = "/en/0003-you-are-a-function";
+
+      const urls = JSON.parse(langUrls);
+      const lang = localStorage.getItem("preferred-lang") ||
+        navigator.language.split("-")[0] || "";
+      window.location.replace(urls[lang] || defaultUrl);
+    })();</script> <noscript> <a href="/en/0003-you-are-a-function">Continue</a> </noscript> </body></html>
